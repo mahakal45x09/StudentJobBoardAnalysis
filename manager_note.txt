@@ -1,0 +1,21 @@
+# Student Job Board Analysis – Manager Note
+
+**Period:** July to September 2026
+
+I analysed 1,200 student job applications to understand which application sources perform best, what affects shortlisting, and how quickly employers respond.
+
+**Key Findings**
+
+1. **Best application sources:** Referrals had the highest overall hiring rate, with around 11 hires per 100 applications. However, the best source was different for each job role. This suggests that we should choose recruitment channels based on the type of role instead of using the same approach for every vacancy.
+
+2. **Application completion:** Students who completed all four application steps had a 48.39% shortlist rate, compared with just 9.28% for those who completed fewer steps. We should encourage students to complete their applications by adding reminders and showing their progress.
+
+3. **Paid vs unpaid jobs:** Employers hiring for paid positions responded faster. The median response time was 3 days for paid jobs and 7 days for unpaid jobs. Also, unpaid jobs had a higher no-reply rate (29.61%) than paid jobs (13.08%). Employers should be encouraged to respond to applicants on time.
+
+**Recommendations**
+
+We should focus on role-specific recruitment sources, make the application process easier to complete, and encourage employers to respond faster.
+
+These improvements could help students get better opportunities and create a better experience on the job board.
+
+*Note: These findings are based on the available dataset and show patterns, not guaranteed cause-and-effect relationships.*
