@@ -100,6 +100,32 @@ The following chart compares shortlisting rates based on application completion.
 
 ![Shortlisting Rate by Application Completion](shortlist_rate_by_steps.png)
 
+
+## Business Insights
+
+### 1. Referral Sources Show Strong Hiring Performance
+- Referral applications achieved the highest hiring rate at 10.74 hires per 100 applications.
+- Search generated the highest total number of hires (25).
+- **Business implication:** Employers can use search platforms for application volume while exploring referral programs to improve hiring efficiency.
+
+### 2. Application Completion Is Associated with Higher Shortlisting
+- Applications completing all four steps had a 48.39% shortlisting rate.
+- Applications completing fewer than four steps had a 9.28% shortlisting rate.
+- **Business implication:** Employers should simplify application instructions and monitor where candidates drop out.
+
+### 3. Paid Opportunities Had Faster Recorded Response Times
+- Paid opportunities had an average recorded response time of 3.22 days.
+- Unpaid opportunities had an average recorded response time of 7.63 days.
+- **Business implication:** Employers should monitor response times and improve communication with applicants.
+
+### 4. Unpaid Opportunities Had More Missing Response Records
+- 13.08% of paid applications had no recorded reply time.
+- 29.61% of unpaid applications had no recorded reply time.
+- **Business implication:** Employers should maintain consistent application tracking and update candidates about their application status.
+
+*Note: These findings describe patterns in the available dataset. They do not establish cause-and-effect relationships.*
+
+
 ## Business Recommendations
 
 1. Strengthen referral and email recruitment channels.
