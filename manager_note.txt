@@ -1,21 +1,85 @@
-# Student Job Board Analysis – Manager Note
+# Manager Note – Student Job Board Analysis
 
-**Period:** July to September 2026
+## 1. Project Overview
 
-I analysed 1,200 student job applications to understand which application sources perform best, what affects shortlisting, and how quickly employers respond.
+This analysis examines 1,200 cleaned student job applications submitted between July and September 2026. The objective is to identify recruitment source performance, application completion patterns, and differences in employer response times between paid and unpaid opportunities.
 
-**Key Findings**
+## 2. Key Findings
 
-1. **Best application sources:** Referrals had the highest overall hiring rate, with around 11 hires per 100 applications. However, the best source was different for each job role. This suggests that we should choose recruitment channels based on the type of role instead of using the same approach for every vacancy.
+### A. Recruitment Source Performance
 
-2. **Application completion:** Students who completed all four application steps had a 48.39% shortlist rate, compared with just 9.28% for those who completed fewer steps. We should encourage students to complete their applications by adding reminders and showing their progress.
+- Referral was the strongest overall recruitment source, with 13 hires from 121 applications, achieving approximately 10.74 hires per 100 applications.
+- Email generated 13 hires from 160 applications, achieving approximately 8.13 hires per 100 applications.
+- Search generated the highest total number of hires (25) from 439 applications, with approximately 5.69 hires per 100 applications.
+- Social media had the lowest hiring rate among the main identified sources, at approximately 2.33 hires per 100 applications.
 
-3. **Paid vs unpaid jobs:** Employers hiring for paid positions responded faster. The median response time was 3 days for paid jobs and 7 days for unpaid jobs. Also, unpaid jobs had a higher no-reply rate (29.61%) than paid jobs (13.08%). Employers should be encouraged to respond to applicants on time.
+**Recommendation:** Focus on referral and email channels while continuing to use search platforms because they generate a larger overall number of hires. Evaluate recruitment sources separately for each role.
 
-**Recommendations**
+### B. Role-Wise Recruitment Source Performance
 
-We should focus on role-specific recruitment sources, make the application process easier to complete, and encourage employers to respond faster.
+The strongest observed recruitment sources varied by job category:
 
-These improvements could help students get better opportunities and create a better experience on the job board.
+- Data: Search – 7.41 hires per 100 applications.
+- Design: Referral – 23.08 hires per 100 applications.
+- Finance: Search – 2.94 hires per 100 applications.
+- Marketing: Referral – 22.22 hires per 100 applications.
+- Operations: College – 20.00 hires per 100 applications.
+- Software: Email – 11.36 hires per 100 applications.
 
-*Note: These findings are based on the available dataset and show patterns, not guaranteed cause-and-effect relationships.*
+**Recommendation:** Use role-specific recruitment strategies instead of depending on a single recruitment source for every position. These findings should be monitored because some role-source combinations have relatively small application counts.
+
+### C. Application Step Completion
+
+- Applications completing all four steps: 403.
+- Applications completing fewer than four steps: 797.
+- Shortlisted applicants among those completing all four steps: 195.
+- Shortlisted applicants among those completing fewer than four steps: 74.
+- Shortlisting rate for all four steps: 48.39%.
+- Shortlisting rate for fewer than four steps: 9.28%.
+
+Applicants completing all four steps had a substantially higher shortlisting rate than applicants who did not complete all steps.
+
+**Recommendation:** Introduce application progress indicators, completion reminders, and clear instructions to encourage applicants to finish all required steps.
+
+### D. Paid vs Unpaid Applications
+
+Paid opportunities:
+- Total applications: 734.
+- Average recorded response time: 3.22 days.
+- Median recorded response time: 3 days.
+- Applications with no recorded reply time: 96 (13.08%).
+
+Unpaid opportunities:
+- Total applications: 466.
+- Average recorded response time: 7.63 days.
+- Median recorded response time: 7 days.
+- Applications with no recorded reply time: 138 (29.61%).
+
+Paid opportunities had faster recorded response times and a lower percentage of applications without a recorded reply compared with unpaid opportunities.
+
+**Recommendation:** Encourage employers to provide timely application updates and establish response-time expectations for both paid and unpaid opportunities.
+
+## 3. Business Recommendations
+
+1. Strengthen referral and email recruitment channels.
+2. Select recruitment channels according to the specific job category.
+3. Encourage applicants to complete all four application steps.
+4. Introduce automated reminders for incomplete applications.
+5. Encourage employers to respond to applicants within a reasonable timeframe.
+6. Monitor recruitment performance regularly using hiring rates rather than only total application counts.
+
+## 4. Conclusion
+
+The analysis highlights differences in recruitment source performance, application completion, and employer response patterns.
+
+Referral was the strongest overall source by hiring rate, while search generated the highest total number of hires. Applicants completing all four application steps had a considerably higher shortlisting rate. Paid opportunities also showed faster recorded response times and fewer applications without a recorded reply.
+
+These findings can help improve recruitment strategies, application completion, and employer communication.
+
+## 5. Data Limitations
+
+- The analysis is based on the available student job application dataset.
+- Missing response-time values represent applications with no recorded reply time, not confirmed cases where employers never responded.
+- Recruitment source performance may vary because of differences in application volume and role category.
+- The observed relationships do not establish causation.
+- Small sample sizes for some role-source combinations should be considered before making recruitment decisions.
